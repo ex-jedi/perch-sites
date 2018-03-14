@@ -15,9 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Perch Sites List
 email: mark@pixelsmiths.co.uk
-description: A list of websites built with Perch CMS.
+description: # this means to ignore newlines until "baseurl:"
+ A list of websites built with Perch CMS.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://builtwithperch.com" # the base hostname & protocol for your site
+url: "https://ex-jedi.github.io/" # the base hostname & protocol for your site
 twitter_username: ex_jedi
 github_username:  ex-jedi
 
