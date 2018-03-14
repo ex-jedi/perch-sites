@@ -16,7 +16,7 @@
 title: Perch Sites List
 email: mark@pixelsmiths.co.uk
 description: # this means to ignore newlines until "baseurl:"
- A list of websites built with Perch CMS.
+ This will eventially be a list of websites built with Perch CMS.
 baseurl: "/perch-sites" # the subpath of your site, e.g. /blog
 url: "https://ex-jedi.github.io" # the base hostname & protocol for your site
 twitter_username: ex_jedi
